@@ -29,7 +29,7 @@ What would you like to do?
 [2] - Remove a student from the registry
 ```
 
-2. Om användaren valt 1 för att lista studenter så ska användaren sedan kunna välja en student i ordningen från 0 och uppåt (dvs. användaren ska kunna skriva in "0" för att se den första studenten i listan). När användaren valt student så visar du ytterligare 2 val:
+2. Om användaren valt 0 för att lista studenter så ska användaren sedan kunna välja en student i ordningen från 0 och uppåt (dvs. användaren ska kunna skriva in "0" för att se den första studenten i listan). När användaren valt student så visar du ytterligare 3 val:
    [q] Gå tillbaka till menyn
    [0] Lista användarens betyg i samtliga kurser
    [1] Lista personlig information om studenten
