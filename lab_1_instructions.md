@@ -63,5 +63,5 @@ Pythonprogrammering 2: 4
 Innan du lämnar in uppgiften bör du testa programmet.
 Fastna inte i detaljer, **exakt** hur du gör eller hur det ser ut spelar ingen roll.
 
-BONUS (Ej obligatoriskt): Användaren ska kunna lägga till betyg och kurser för enskilda studenter också (se 1.2)
+BONUS (Ej obligatoriskt): Användaren ska kunna lägga till betyg och kurser för enskilda studenter också (under menyn för punkt 2)
 
