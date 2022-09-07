@@ -5,6 +5,9 @@ Betyg: U, G
 ## Innan du gör uppgiften
 Du bör du ha gjort klart git-övningen och labb-förberedelsen på studentportalen. Det hjälper också om du gjort extrauppgifterna.
 
+## Inlämning
+Uppgiften inlämnas genom att du har pushat ut koden med git push. Den sista uppladdade commiten som gjorts innan deadline är den som betygsätts.
+
 ## Beskrivning:
 Du ska bygga ett enkelt system för att hantera studenter via terminalen.
 Filen student_system.py innehåller startdata för alla studenter, du ska bygga på funktionalitet. 
