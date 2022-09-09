@@ -28,7 +28,7 @@ Welcome to the greatest student system in the world.
 What would you like to do?
 [q] - Exit
 [0] - List all students from the registry
-[1] - Add a student from the registry
+[1] - Add a student to the registry
 [2] - Remove a student from the registry
 ```
 
